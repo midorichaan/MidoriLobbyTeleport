@@ -1,0 +1,2 @@
+# MidoriLobbyTeleport
+なんかconfigで設定したら飛ぶやつ
